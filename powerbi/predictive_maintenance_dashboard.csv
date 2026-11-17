@@ -1,0 +1,101 @@
+engine_id,cycle,predicted_RUL,maintenance_status,risk_score,priority,maintenance_recommendation,RUL_category,risk_percentage
+34,203,5.096583874458876,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,19.62
+81,213,6.3889211760461775,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,15.65
+35,198,8.921105699855696,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,11.21
+76,205,9.00316071428571,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,11.11
+31,196,10.670594336219333,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,9.37
+82,162,11.618501082251084,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,8.61
+68,187,11.643257936507936,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,8.59
+56,136,12.76941865079365,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,7.83
+92,150,15.184780483405486,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,6.59
+66,147,16.080015873015874,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,6.22
+36,126,17.468212301587315,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,5.72
+20,184,18.216510822510823,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,5.49
+90,146,19.062302308802312,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,5.25
+100,198,19.27403878066378,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,5.19
+42,156,19.3624448051948,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,5.16
+91,234,21.12222276334778,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,4.73
+24,186,21.41694642857142,Critical,4,1,Immediate Maintenance Required,0-30 Cycles,4.67
+40,133,30.977247256398577,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,3.23
+49,303,31.08832070707073,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,3.22
+52,189,35.71581854256851,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.8
+53,164,35.98162815656565,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.78
+64,168,38.66619824017239,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.59
+46,146,39.28712788600288,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.55
+93,244,41.81708324314575,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.39
+38,125,43.18257647907648,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.32
+61,159,44.12462844304388,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.27
+41,123,47.8949597763348,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.09
+58,176,48.52283518728007,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.06
+77,162,48.61555402236653,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,2.06
+32,145,50.636020448849386,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.97
+17,165,53.36789209401709,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.87
+62,232,56.596496217939766,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.77
+94,133,56.74808339889204,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.76
+3,126,56.9652359108058,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.76
+37,121,58.04367741993126,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.72
+45,152,58.714449419489526,Warning,3,2,Schedule Maintenance Soon,31-60 Cycles,1.7
+63,155,61.88418756543757,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.62
+18,133,67.46566287976623,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.48
+21,148,68.38366919191921,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.46
+8,166,73.62730667378352,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.36
+84,172,74.97124775969644,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.33
+43,172,75.40865625362821,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.33
+72,131,77.40194694656383,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.29
+30,143,78.55098130248862,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.27
+74,137,79.8227786256896,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.25
+60,147,80.31350593183494,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.25
+57,160,83.51547531635035,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.2
+4,106,84.23994523203497,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.19
+80,133,84.46609909159326,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.18
+28,158,86.13384750697122,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.16
+89,177,86.55642208178881,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.16
+97,134,87.2092774170274,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.15
+98,121,89.13148079979472,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.12
+51,144,90.18453125317863,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.11
+79,101,91.91676676429104,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.09
+86,110,96.48224705708688,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.04
+16,113,99.74583387196728,Monitor,2,3,Continue Monitoring,61-120 Cycles,1.0
+5,98,101.32191713827962,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.99
+11,83,102.39401893939392,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.98
+70,152,103.2318515716443,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.97
+6,105,105.51603971733374,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.95
+29,171,106.49090871220282,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.94
+12,217,107.3924877516131,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.93
+27,140,107.99134171152464,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.93
+48,78,108.84821751078394,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.92
+7,160,109.48621068231157,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.91
+50,74,118.65586153536351,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.84
+47,73,119.60892289042197,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.84
+26,76,119.7629261485244,Monitor,2,3,Continue Monitoring,61-120 Cycles,0.83
+44,54,121.55376236169008,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.82
+54,121,122.28801378946224,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.82
+95,89,122.99265008598276,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.81
+55,113,123.27283086951913,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.81
+19,135,127.21960970340244,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.79
+83,73,127.32047793367866,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.79
+88,68,128.47118381656364,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.78
+33,50,132.02854835327878,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.76
+75,88,133.045725684219,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.75
+10,192,133.29898142135642,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.75
+73,112,133.68756928577142,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.75
+13,195,134.41998885918002,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.74
+14,46,135.6083883353237,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.74
+59,94,136.5532849666286,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.73
+67,71,138.087382044037,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.72
+99,97,139.01640450627562,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.72
+22,39,139.4028792384856,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.72
+25,48,139.86740115171617,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.71
+71,68,140.19518562388407,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.71
+87,56,145.87206356261152,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.69
+69,54,147.27556356493912,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.68
+2,49,148.95202945769165,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.67
+96,97,151.12468365706175,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.66
+9,55,156.59019198625776,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.64
+85,34,157.07515617452626,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.64
+23,130,163.43905898268403,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.61
+65,71,166.79499468042798,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.6
+39,37,168.87228731816856,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.59
+15,76,169.92813463604273,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.59
+1,31,174.6590869664104,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.57
+78,72,177.71014235690507,Healthy,1,4,No Immediate Action Required,120+ Cycles,0.56

@@ -1,0 +1,12 @@
+streamlit==1.67.0
+PyMongo==4.20.0
+python-dotenv==1.2.4
+bcrypt==5.0.0
+PyMySQL==1.2.4
+joblib==1.5.3
+matplotlib==3.11.1
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==26.0.1
+scikit-learn==1.9.0
+xgboost==3.4.0
